@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cross-spawn": "^7.0.6"
+  },
+  "name": "gamelauncher",
+  "version": "1.0.0",
+  "main": "launcher.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node launcher.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": ""
+}
